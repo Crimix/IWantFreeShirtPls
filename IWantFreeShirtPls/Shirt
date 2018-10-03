@@ -16,6 +16,9 @@ namespace IWantFreeShirtPls.Objects
         
         public  Shirt(string color, int size, string motive)
         {
+            this.color = color;
+            this.size = size;
+            this.motive = motive;
             isHoodie = false;
         }
 
