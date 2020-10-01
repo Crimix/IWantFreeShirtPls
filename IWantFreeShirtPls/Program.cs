@@ -12,7 +12,7 @@ namespace IWantFreeShirtPls
     static void Main(string[] args)
     {
       Shirt shirt = new Shirt()
-      Console.WriteLine("Shirt pls");
+      Console.WriteLine("Shirt please");
     }
   }
 }
